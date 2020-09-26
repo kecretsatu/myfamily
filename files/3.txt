@@ -1,0 +1,3 @@
+insert into `user` (email, first_name, last_name, marga, jenkel, hidup, tanggal_lahir, tempat_lahir, tanggal_lahir, tempat_lahir, alamat, kota, status, user_saved, date_saved) 
+								values ('uqhy@gmail.com_3095201', 'kakek', '', 'oke', '', '1', '2018-03-31', '', 
+								'2018-03-31', '', '', '', '2', 'uqhy@gmail.com', now())

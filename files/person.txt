@@ -1,0 +1,1 @@
+{"tanggal_lahir":"2018-03-31","ACTION_TYPE":"15","marga":"oke","parent":"-","tanggal_meninggal":"2018-03-31","kota":"","hidup":"1","tempat_lahir":"","first_name":"kakek","tempat_meninggal":"","last_name":"","crud":"add","alamat":"","user":"uqhy@gmail.com","key":"uqhy@gmail.com_4078245","keep":"0"}

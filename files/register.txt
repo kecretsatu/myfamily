@@ -1,0 +1,1 @@
+{"last_name":"gumilang","crud":"add","first_name":"syauqi","reType_password":"123456","password":"123456","email":"uqhy@gmail.com"}

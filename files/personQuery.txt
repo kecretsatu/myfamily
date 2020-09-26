@@ -1,0 +1,3 @@
+update `user` set first_name = 'uqhy', last_name = 'kecret', marga = 'kecret', jenkel = '1', hidup = '1', 
+						tanggal_lahir = '1990-11-10', tempat_lahir = 'sby', alamat = 'jalan', kota = 'sby', 
+						status = 2, user_saved = 'uqhy@gmail.com', date_saved = now() where email = 'uqhy@gmail.com' 
